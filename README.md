@@ -1,5 +1,5 @@
-# CrÃ©ation d'un site web e-commerce avec WordPress
-
+# E-commerce WEB SITE WORDPRESS
+ 
 
 > Step 1. Download and install WordPress on my computer
 
@@ -24,8 +24,8 @@
  
            localhost
  - DB_name: 
- 
-         wordpress
+
+         wp_brief10
 - DB_username: 
   
            root   
@@ -43,6 +43,7 @@
         WJ2nuC(o%sdXVsa24O
 
 > step 6. Add plugins WooCommerce for my store
+
     - Add 15 products with their properties
     - Add coupon
 
@@ -59,7 +60,7 @@
 > step 9. Connect stripe with my store
 
     - Creation a stripe account
-    - copier Publishable key and Secret key from stripe and past it in WooCommerce
+    - copier Publishable key and Secret key from stripe and past them in WooCommerce payment settings
 
 > step 10. make product purchase simulation
 
