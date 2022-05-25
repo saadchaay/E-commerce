@@ -25,7 +25,7 @@
            localhost
  - DB_name: 
 
-         wp_brief10
+         wp_brief9.2
 - DB_username: 
   
            root   
